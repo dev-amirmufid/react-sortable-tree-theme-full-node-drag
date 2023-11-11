@@ -51,8 +51,7 @@
   },
   "peerDependencies": {
     "react": "^18.0.2",
-    "react-dom": "^18.0.2",
-    "react-sortable-tree": "^1.4.0"
+    "react-dom": "^18.0.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.6",
