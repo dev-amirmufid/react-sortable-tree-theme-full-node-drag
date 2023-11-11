@@ -50,8 +50,8 @@
     "react-virtualized": "^9.13.0"
   },
   "peerDependencies": {
-    "react": "^15.3.0 || ^16.0.0",
-    "react-dom": "^15.3.0 || ^16.0.0",
+    "react": "^18.0.2",
+    "react-dom": "^18.0.2",
     "react-sortable-tree": "^1.4.0"
   },
   "devDependencies": {
@@ -83,7 +83,7 @@
     "node-sass": "^4.7.2",
     "postcss-loader": "^2.0.9",
     "prettier": "^1.8.2",
-    "react": "^16.1.1",
+    "react": "^18.0.2",
     "react-addons-shallow-compare": "^15.6.2",
     "react-dnd-test-backend": "^2.5.4",
     "react-dnd-touch-backend": "^0.3.17",
